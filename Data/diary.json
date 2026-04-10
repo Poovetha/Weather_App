@@ -1,0 +1,87 @@
+{
+    "Poovitha": [
+        {
+            "timestamp": "2026-04-10 13:05:05",
+            "city": "Tiruppur",
+            "temperature": 37,
+            "description": "Sunny",
+            "note": "Too Hot "
+        },
+        {
+            "timestamp": "2026-04-10 13:05:41",
+            "city": "Tiruppur",
+            "temperature": 37,
+            "description": "Sunny",
+            "note": ""
+        },
+        {
+            "timestamp": "2026-04-10 13:08:22",
+            "city": "Coimbatore",
+            "temperature": 35,
+            "description": "Sunny",
+            "note": "Okay to handle"
+        },
+        {
+            "timestamp": "2026-04-10 14:01:44",
+            "city": "Namakkal",
+            "temperature": 37,
+            "description": "Partly cloudy",
+            "note": ""
+        }
+    ],
+    "l0gesh29": [
+        {
+            "timestamp": "2026-04-10 15:09:45",
+            "city": "Salem",
+            "temperature": 36,
+            "description": "Patchy rain nearby",
+            "note": ""
+        }
+    ],
+    "venkat": [
+        {
+            "timestamp": "2026-04-10 15:17:11",
+            "city": "Tirupur",
+            "temperature": 38,
+            "description": "Partly cloudy",
+            "note": ""
+        },
+        {
+            "timestamp": "2026-04-10 15:18:24",
+            "city": "Coimbatore",
+            "temperature": 38,
+            "description": "Partly cloudy",
+            "note": ""
+        },
+        {
+            "timestamp": "2026-04-10 15:19:16",
+            "city": "Ooty",
+            "temperature": 29,
+            "description": "Sunny",
+            "note": ""
+        }
+    ],
+    "NaviN": [
+        {
+            "timestamp": "2026-04-10 17:05:18",
+            "city": "Erode",
+            "temperature": 40,
+            "description": "Partly cloudy",
+            "note": ""
+        },
+        {
+            "timestamp": "2026-04-10 17:06:03",
+            "city": "Kangayam",
+            "temperature": 23,
+            "description": "Sunny",
+            "note": ""
+        },
+        {
+            "timestamp": "2026-04-10 17:07:25",
+            "city": "Nathakadaiyur",
+            "temperature": 38,
+            "description": "Sunny",
+            "note": ""
+        }
+    ]
+}

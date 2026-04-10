@@ -1,0 +1,29 @@
+{
+    "Poovitha": {
+        "name": "Poovitha",
+        "email": "poovethapalanivelu@gmail.com",
+        "password": "ac4572bff59ecb43bea81710b8bcb86d0480a73081ecbea5916353024a6da8e2"
+    },
+    "Rethik": {
+        "name": "Poovitha",
+        "email": "Poovitha@gmail.com",
+        "password": "ac4572bff59ecb43bea81710b8bcb86d0480a73081ecbea5916353024a6da8e2"
+    },
+    "l0gesh29": {
+        "name": "Logesh",
+        "email": "logesh@aerele.in",
+        "password": "f32a4d51781445a04da13d9b54c0335d1c1acc6913483b0f658c0bac9bcc6920"
+    },
+    "venkat": {
+        "name": "Venkat",
+        "email": "venkat@gmail.com",
+        "password": "724932d157c6005ec2523b6bbab81975759931a91ee85b11d2b63e3d0084a4b5",
+        "disable": true
+    },
+    "NaviN": {
+        "name": "NaviN",
+        "email": "navin@aerele.in",
+        "password": "f9310e87c56ec02807ba8f7412822a3a880ee627e49f1b4cc5520e36a5851911",
+        "disable": false
+    }
+}
